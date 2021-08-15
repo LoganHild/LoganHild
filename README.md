@@ -1,7 +1,6 @@
 ### Hi there 👋
 ![tumblr_mtkskpAlJG1sj6vefo1_500](https://user-images.githubusercontent.com/82903685/129489219-d515efd3-da92-4c15-9785-5cccf3080af1.gif)
 
-LoganHild/
 <!--
 **LoganHild/LoganHild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
