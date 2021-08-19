@@ -6,8 +6,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on readme-generator
-- 🌱 I’m currently learning node.js
+- 🔭 I’m currently working on Team Profile-generator
+- 🌱 I’m currently learning Object-Oriented Programming
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
