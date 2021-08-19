@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoganHild)](https://github.com/LoganHild/github-readme-stats)
+<span align="left"> <img height='150px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=perfettiful&layout=compact&theme=react ' alt="perfettiful" /> </span>
 
 ![Logan's github stats](https://github-readme-stats.vercel.app/api?username=LoganHild)
