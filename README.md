@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <!--
 - ⚡ Fun fact: ...
 -->
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <span align="left"> <img height='150px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LoganHild&layout=compact&theme=react ' alt="LoganHild" /> </span>
 <span align="right"> <img height='150px' src='https://github-readme-stats.vercel.app/api?username=LoganHild&show_icons=true&theme=react ' alt="LoganHild" /> </span>
 
