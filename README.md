@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoganHild)](https://github.com/LoganHild/github-readme-stats)
 <span align="left"> <img height='150px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LoganHild&layout=compact&theme=react ' alt="LoganHild" /> </span>
+<span align="right"> <img height='150px' src='https://github-readme-stats.vercel.app/api?username=perfettiful&show_icons=true&theme=react ' alt="perfettiful" /> </span>
 
 ![Logan's github stats](https://github-readme-stats.vercel.app/api?username=LoganHild)
