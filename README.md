@@ -24,6 +24,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/LoganHild/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40">
   <img src="https://raw.githubusercontent.com/LoganHild/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40">
   <img src="https://raw.githubusercontent.com/LoganHild/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/vscode/vscode-original-wordmark.svg" alt="vsCode" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/LoganHild/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">
   <img src="https://raw.githubusercontent.com/LoganHild/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40">
 </p>
 <span align="left"> <img height='150px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LoganHild&layout=compact&theme=react ' alt="LoganHild" /> </span>
