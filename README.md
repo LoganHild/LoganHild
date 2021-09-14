@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
-- 🔭 I’m currently working on Team Profile-generator
-- 🌱 I’m currently learning Object-Oriented Programming
+- 🔭 I’m currently working on Employee Tracker
+- 🌱 I’m currently learning mySQL
 - 😄 Pronouns: He/His
 <!--
 - ⚡ Fun fact: ...
