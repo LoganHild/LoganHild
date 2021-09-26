@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
-- 🔭 I’m currently working on Employee Tracker
+- 🔭 I’m currently working on the back-end for an ecommerce app called iCommerce(see what I did there? 😄)
 - 🌱 I’m currently learning mySQL
 - 😄 Pronouns: He/His
 <!--
