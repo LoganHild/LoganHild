@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 - 🔭 I’m currently working on the back-end for an ecommerce app called iCommerce(see what I did there? 😄)
-- 🌱 I’m currently learning mySQL
+- 🌱 I’m currently learning ORM and MVC
 - 😄 Pronouns: He/His
 <!--
 - ⚡ Fun fact: ...
