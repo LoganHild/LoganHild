@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on a back-end ecommerce app called iCommerce
+- 🔭 I’m currently working on Welcome-Neighbor app, the next great Social Network
 - 🌱 I’m currently learning ORM and MVC
 <!--
 - 👯 I’m looking to collaborate on ...
