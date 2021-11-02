@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
-- 🔭 I’m currently working on Gist for breaking down the different pieces of a regular expression for future coders.
-- 🌱 I’m currently learning MongoDb.
+- 🔭 I’m currently working on Abs-solutely-Not, the workout tracker!
+- 🌱 I’m currently learning PWA.
 - 😄 Pronouns: He/His
 <!--
 - ⚡ Fun fact: ...
