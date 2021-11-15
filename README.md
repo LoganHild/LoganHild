@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
-- 🔭 I’m currently working on Abs-solutely-Not, the workout tracker!
-- 🌱 I’m currently learning PWA.
-- 😄 Pronouns: He/His
+- 🔭 I’m currently working on my updated React Portfolio!!!!
+- 🌱 I’m currently learning React.
+- 😄 Pronouns: He/Him/His
 <!--
 - ⚡ Fun fact: ...
 -->
