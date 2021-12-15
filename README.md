@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 
   Email: hildebrandtlogan@gmail.com
+  
   LinkedIn: https://www.linkedin.com/in/logan-hildebrandt-923553210/
 
 - 🔭 I’m currently working on my updated React Portfolio!!!!
