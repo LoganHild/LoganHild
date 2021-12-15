@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: 
 -->
+- 📫 How to reach me: 
+
   Email: hildebrandtlogan@gmail.com
   LinkedIn: https://www.linkedin.com/in/logan-hildebrandt-923553210/
 
