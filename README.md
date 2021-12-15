@@ -1,4 +1,7 @@
+#Full-Stack Web Developer
+
 ### 👋I'm Logan👋
+
 <img src="https://user-images.githubusercontent.com/82903685/129489219-d515efd3-da92-4c15-9785-5cccf3080af1.gif" alt="ghostbusters-haunter" width="100%" height="300"/>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=LoganHild alt=LoganHild/> </p>
 <!--
