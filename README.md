@@ -48,7 +48,7 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/LoganHild/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org/en/">
-    <img src="https://icon2.cleanpng.com/20180425/xeq/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84de7b809.1939946215246930699491.jpg" alt="nodejs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/LoganHild/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/">
       <img src="https://raw.githubusercontent.com/LoganHild/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
