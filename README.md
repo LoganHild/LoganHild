@@ -57,7 +57,7 @@ Here are some ideas to get you started:
       <img src="http://www.newthinktank.com/wp-content/uploads/2015/10/Handlebars-Tutorial.png" alt="handlebars" width="40" height="40"/>
   </a>
   <a href="https://handlebarsjs.com/">
-      <img src="https://s3-us-west-2.amazonaws.com/assets.blog.serverless.com/express_js.png" alt="handlebars" width="40" height="40"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS7RVaKE0ubjH_Ioi90MHiDzKw-GpNI1BsHw&usqp=CAU" alt="express" width="40" height="40"/>
   </a>
 </p>
 <span align="left"> <img height='150px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LoganHild&layout=compact&theme=react ' alt="LoganHild" /> </span>
