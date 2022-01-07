@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/LoganHild/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/LoganHild/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/LoganHild/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/jquery/jquery-plain-wordmark.svg" alt="jquery" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/LoganHild/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/LoganHild/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/LoganHild/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="color: white"/>
 </p>
 <span align="left"> <img height='150px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LoganHild&layout=compact&theme=react ' alt="LoganHild" /> </span>
