@@ -44,6 +44,9 @@ Here are some ideas to get you started:
   <a href="https://getbootstrap.com/">
     <img src="https://raw.githubusercontent.com/LoganHild/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
   </a>
+  <a href="https://mui.com/">
+    <img src="https://raw.githubusercontent.com/LoganHild/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/>
+  </a>
   <a href="https://id.heroku.com/login">
     <img src="https://raw.githubusercontent.com/LoganHild/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40"/>
   </a>
