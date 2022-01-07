@@ -54,7 +54,7 @@ Here are some ideas to get you started:
       <img src="https://raw.githubusercontent.com/LoganHild/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="color: white"/>
   </a>
   <a href="https://reactjs.org/">
-      <img src="https://raw.githubusercontent.com/LoganHild/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/handlebars/handlebars-original-wordmark.svg" alt="handlebars" width="40" height="40" style="color: white"/>
+      <img src="https://cdn.tutsplus.com/net/uploads/legacy/2143_handlebars/handlebars-thumb.jpg" alt="handlebars" width="40" height="40" style="color: white"/>
   </a>
 </p>
 <span align="left"> <img height='150px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LoganHild&layout=compact&theme=react ' alt="LoganHild" /> </span>
