@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left" style="text-shadow: 2px 2px 2px white;">
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
     <img src="https://raw.githubusercontent.com/LoganHild/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"     height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
