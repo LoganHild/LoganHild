@@ -54,7 +54,7 @@ Here are some ideas to get you started:
       <img src="https://raw.githubusercontent.com/LoganHild/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="color: white"/>
   </a>
   <a href="https://reactjs.org/">
-      <img src="https://cdn.tutsplus.com/net/uploads/legacy/2143_handlebars/handlebars-thumb.jpg" alt="handlebars" width="40" height="40" style="color: white"/>
+      <img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.newthinktank.com%2F2015%2F10%2Flearn-handlebars-one-video%2F&psig=AOvVaw0FF0QzxhrGFAO6PU7SQKiI&ust=1641664699668000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNDIh92boPUCFQAAAAAdAAAAABAJ" alt="handlebars" width="40" height="40" style="color: white"/>
   </a>
 </p>
 <span align="left"> <img height='150px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=LoganHild&layout=compact&theme=react ' alt="LoganHild" /> </span>
