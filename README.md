@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   
   LinkedIn: https://www.linkedin.com/in/logan-hildebrandt-923553210/
 
-- 🔭 I’m currently working on my updated React Portfolio!!!!
+- 🔭 I’m currently working on a continuation course for C# 
 - 🌱 I’m currently learning React.
 - 😄 Pronouns: He/Him/His
 <!--
