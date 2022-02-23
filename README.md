@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Abs-solutely-Not workout tracker!!
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ORM and MVC
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   
   LinkedIn: https://www.linkedin.com/in/logan-hildebrandt-923553210/
 
-- 🔭 I’m currently working on a continuation course for C# 
+- 🔭 I’m currently working on practicing data structures and algorithms!
 <!-- - 🌱 I’m currently learning React. -->
 - 😄 Pronouns: He/Him/His
 <!--
