@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
   Email: hildebrandtlogan@gmail.com
   
-  LinkedIn: https://www.linkedin.com/in/logan-hildebrandt-923553210/
+  LinkedIn: https://www.linkedin.com/in/loganahildebrandt/
 
 - 🔭 I’m currently working on practicing data structures and algorithms!
 <!-- - 🌱 I’m currently learning React. -->
